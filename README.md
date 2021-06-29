@@ -1,0 +1,2 @@
+# Python_deneme
+Yıldız
