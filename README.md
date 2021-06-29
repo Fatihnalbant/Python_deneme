@@ -2,4 +2,4 @@
 Yıldız
 
 
-![The San Juan Mountains are beautiful!](Ekran Alıntısı.PNG "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/Ekran Alıntısı.PNG "San Juan Mountains")
